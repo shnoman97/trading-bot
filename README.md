@@ -79,3 +79,9 @@ This is a procedural trading bot framework in Python that leverages the MetaTrad
 **Database Integration**: Store trade logs and performance data in a database for analysis.
 
 **Notification System**: Add email or messaging notifications for important events.
+
+## **Contact**
+
+- **Author**: [Muhammad Noman Fareed](https://github.com/shnoman97)
+- **Email**: [nomanfareed681@gmail.com](mailto:nomanfareed681@gmail.com)
+- **LinkedIn**: [m-noman-fareed](https://www.linkedin.com/in/m-noman-fareed/)
